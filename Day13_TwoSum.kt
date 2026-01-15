@@ -1,5 +1,5 @@
 /**
- * Day 12 – Two Sum
+ * Day 13– Two Sum
  *
  * Problem:
  * Given an array of integers and a target,
